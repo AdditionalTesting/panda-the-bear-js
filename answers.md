@@ -38,3 +38,9 @@ newColor.forEach ( function(color) { color.style.fontFamily = 'monospace' })
 undefined
 
 7.
+var coolThing = document.querySelectorAll('.action-icon-bg')
+undefined
+coolThing.forEach ( function(color) {color.style.backgroundColor = 'red'})
+undefined
+
+8.
